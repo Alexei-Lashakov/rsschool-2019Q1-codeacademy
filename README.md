@@ -1,2 +1,2 @@
 ALIAKSEI LASHAKOU
-HTML CSS Basics: https://www.codecademy.com/users/grot90/achievements
+HTML CSS Basics: https://www.codecademy.com/users/Alexei-Lashakov/achievements
